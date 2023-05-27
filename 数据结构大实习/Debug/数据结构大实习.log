@@ -1,0 +1,5 @@
+﻿  数据结构大实习.cpp
+D:\c++\数据结构大实习\数据结构大实习.cpp(52,2): warning C4091: “typedef ”: 没有声明变量时忽略“City”的左侧
+D:\c++\数据结构大实习\数据结构大实习.cpp(61,2): warning C4091: “typedef ”: 没有声明变量时忽略“Route”的左侧
+D:\c++\数据结构大实习\数据结构大实习.cpp(67,2): warning C4091: “typedef ”: 没有声明变量时忽略“Graph”的左侧
+  数据结构大实习.vcxproj -> D:\c++\数据结构大实习\Debug\数据结构大实习.exe
